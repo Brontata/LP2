@@ -1,0 +1,10 @@
+C:\Users\Guilherme\Documents\LP2\CalculadoraCilindro\bin\Debug\CalculadoraCilindro.exe.config
+C:\Users\Guilherme\Documents\LP2\CalculadoraCilindro\bin\Debug\CalculadoraCilindro.exe
+C:\Users\Guilherme\Documents\LP2\CalculadoraCilindro\bin\Debug\CalculadoraCilindro.pdb
+C:\Users\Guilherme\Documents\LP2\CalculadoraCilindro\obj\Debug\CalculadoraCilindro.csprojAssemblyReference.cache
+C:\Users\Guilherme\Documents\LP2\CalculadoraCilindro\obj\Debug\CalculadoraCilindro.Calculadora.resources
+C:\Users\Guilherme\Documents\LP2\CalculadoraCilindro\obj\Debug\CalculadoraCilindro.Properties.Resources.resources
+C:\Users\Guilherme\Documents\LP2\CalculadoraCilindro\obj\Debug\CalculadoraCilindro.csproj.GenerateResource.cache
+C:\Users\Guilherme\Documents\LP2\CalculadoraCilindro\obj\Debug\CalculadoraCilindro.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\LP2\CalculadoraCilindro\obj\Debug\CalculadoraCilindro.exe
+C:\Users\Guilherme\Documents\LP2\CalculadoraCilindro\obj\Debug\CalculadoraCilindro.pdb
