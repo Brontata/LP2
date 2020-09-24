@@ -4,6 +4,8 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Linq.Expressions;
+using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -79,7 +81,7 @@ namespace AtividadeLP2
             }
             else
             {
-                MessageBox.Show("O campo já está limpo!");
+                MessageBox.Show("Os campos já estão limpos!");
             }
         }
 
@@ -95,34 +97,69 @@ namespace AtividadeLP2
         {
             guardaValor();
             ops = 'X';
+            txtOp.Text = Convert.ToString(ops);
+            txtValOp.Text = Convert.ToString(valorOp);
         }
 
         public void guardaValor ()
         {
-            this.valorOp = Double.Parse(txtVisor.Text);
-            txtVisor.Text = string.Empty;
+            if (txtVisor.Text == string.Empty)
+            {
+                MessageBox.Show("Operação inválida");
+            }
+            else
+            {
+                try{
+                    this.valorOp = Double.Parse(txtVisor.Text);
+                    txtVisor.Text = string.Empty;
+                }
+                catch {
+                    MessageBox.Show("Operação inválida");
+                }
+            }
         }
 
         private void btnIgual_Click(object sender, EventArgs e)
-        {
-             switch (this.ops)
-            {
-                case '+':
-                    txtVisor.Text = Convert.ToString(Double.Parse(txtVisor.Text) + this.valorOp);
-                    break;
-                case '-':
-                    txtVisor.Text = Convert.ToString(this.valorOp - Double.Parse(txtVisor.Text));
-                    break;
-                case 'X':
-                    txtVisor.Text = Convert.ToString(Double.Parse(txtVisor.Text) * this.valorOp);
-                    break;
-                case '/':
-                    txtVisor.Text = Convert.ToString(Double.Parse(txtVisor.Text) / this.valorOp);
-                    break;
-            }
-            txtOp.Text = string.Empty;
-            txtValOp.Text = string.Empty;
-            this.valorOp = 0;
+        {           
+                switch (this.ops)
+                {
+                    case '+':
+                        try
+                        {
+                            txtVisor.Text = Convert.ToString(Double.Parse(txtVisor.Text) + this.valorOp);
+                        }
+                        catch
+                        {
+                            MessageBox.Show("Operação inválida");
+                        }
+                        break;
+                    case '-':
+                        txtVisor.Text = Convert.ToString(this.valorOp - Double.Parse(txtVisor.Text));
+                        break;
+                    case 'X':
+                    try
+                    {
+                        txtVisor.Text = Convert.ToString(Double.Parse(txtVisor.Text) * this.valorOp);
+                    }
+                    catch
+                    {
+                        MessageBox.Show("Operação inválida");
+                    }
+                        break;
+                    case '/':
+                    if (Double.Parse(txtVisor.Text) == 0 || this.valorOp == 0 && this.ops.Equals('/'))
+                    {
+                        MessageBox.Show("Operação inválida");
+                    }
+                    else
+                    {
+                        txtVisor.Text = Convert.ToString(this.valorOp /Double.Parse(txtVisor.Text));
+                    }
+                        break;
+                }
+                txtOp.Text = string.Empty;
+                txtValOp.Text = string.Empty;
+                this.valorOp = 0;          
         }
 
         private void btnSoma_Click(object sender, EventArgs e)
@@ -147,15 +184,31 @@ namespace AtividadeLP2
             {
                 txtVisor.Text += "-";
             }
-            else if (Convert.ToString(txtVisor.Text)[0].Equals('-')) //&& !Convert.ToString(txtVisor.Text)[1].Equals('-'))
-            {
-                MessageBox.Show("Operação inválida!");
-            }
-            else {
-
+            else { 
                  guardaValor();
                  ops = '-';
+                txtOp.Text = Convert.ToString(ops);
+                txtValOp.Text = Convert.ToString(valorOp);
             }
+        }
+
+        private void btnDiv_Click(object sender, EventArgs e)
+        {
+            guardaValor();
+            ops = '/';
+            txtOp.Text = Convert.ToString(ops);
+            txtValOp.Text = Convert.ToString(valorOp);
+        }
+
+        private void btnVirg_Click(object sender, EventArgs e)
+        {
+            txtVisor.Text += ",";
+        }
+
+        private void imgBonk_Click(object sender, EventArgs e)
+        {
+            SoundPlayer simpleSound = new SoundPlayer(@"..\..\source\sound\bonk.wav");
+            simpleSound.Play();
         }
     }
 }
