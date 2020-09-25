@@ -23,7 +23,7 @@ namespace AtividadeLP2
             
         }
 
-        private void bnt0_Click(object sender, EventArgs e)
+        private void btn0_Click(object sender, EventArgs e)
         {
             txtVisor.Text += "0";
         }
@@ -53,7 +53,7 @@ namespace AtividadeLP2
             txtVisor.Text += "5";
         }
 
-        private void btb6_Click(object sender, EventArgs e)
+        private void btn6_Click(object sender, EventArgs e)
         {
             txtVisor.Text += "6";
         }
@@ -209,6 +209,64 @@ namespace AtividadeLP2
         {
             SoundPlayer simpleSound = new SoundPlayer(@"..\..\source\sound\bonk.wav");
             simpleSound.Play();
+        }
+        protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
+        {
+            switch (keyData)
+            {
+                case Keys.NumPad0:
+                    btn0.PerformClick();
+                    break;
+                case Keys.NumPad1:
+                    btn1.PerformClick();
+                    break;
+                case Keys.NumPad2:
+                    btn2.PerformClick();
+                    break;
+                case Keys.NumPad3:
+                    btn3.PerformClick();
+                    break;
+                case Keys.NumPad4:
+                    btn4.PerformClick();
+                    break;
+                case Keys.NumPad5:
+                    btn5.PerformClick();
+                    break;
+                case Keys.NumPad6:
+                    btn6.PerformClick();
+                    break;
+                case Keys.NumPad7:
+                    btn7.PerformClick();
+                    break;
+                case Keys.NumPad8:
+                    btn8.PerformClick();
+                    break;
+                case Keys.NumPad9:
+                    btn9.PerformClick();
+                    break;
+                case Keys.Back:
+                    btnDel.PerformClick();
+                    break;
+                case Keys.Subtract:
+                    btnSub.PerformClick();
+                    break;
+                case Keys.Add:
+                    btnSoma.PerformClick();
+                    break;
+                case Keys.Divide:
+                    btnDiv.PerformClick();
+                    break;
+                case Keys.Multiply:
+                    btnMult.PerformClick();
+                    break;
+                case Keys.Decimal:
+                    btnVirg.PerformClick();
+                    break;
+                case Keys.Enter:
+                    btnIgual.PerformClick();
+                    break;
+            }
+            return base.ProcessCmdKey(ref msg, keyData);
         }
     }
 }

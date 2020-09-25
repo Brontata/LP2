@@ -31,14 +31,14 @@
             this.txtVisor = new System.Windows.Forms.TextBox();
             this.btnMult = new System.Windows.Forms.Button();
             this.btnVirg = new System.Windows.Forms.Button();
-            this.bnt0 = new System.Windows.Forms.Button();
+            this.btn0 = new System.Windows.Forms.Button();
             this.btn1 = new System.Windows.Forms.Button();
             this.btn2 = new System.Windows.Forms.Button();
             this.btn3 = new System.Windows.Forms.Button();
             this.btnDiv = new System.Windows.Forms.Button();
             this.btn4 = new System.Windows.Forms.Button();
             this.btn5 = new System.Windows.Forms.Button();
-            this.btb6 = new System.Windows.Forms.Button();
+            this.btn6 = new System.Windows.Forms.Button();
             this.btnSub = new System.Windows.Forms.Button();
             this.btnIgual = new System.Windows.Forms.Button();
             this.btn7 = new System.Windows.Forms.Button();
@@ -86,16 +86,16 @@
             this.btnVirg.UseVisualStyleBackColor = true;
             this.btnVirg.Click += new System.EventHandler(this.btnVirg_Click);
             // 
-            // bnt0
+            // btn0
             // 
-            this.bnt0.Location = new System.Drawing.Point(72, 345);
-            this.bnt0.Margin = new System.Windows.Forms.Padding(2);
-            this.bnt0.Name = "bnt0";
-            this.bnt0.Size = new System.Drawing.Size(56, 61);
-            this.bnt0.TabIndex = 4;
-            this.bnt0.Text = "0";
-            this.bnt0.UseVisualStyleBackColor = true;
-            this.bnt0.Click += new System.EventHandler(this.bnt0_Click);
+            this.btn0.Location = new System.Drawing.Point(72, 345);
+            this.btn0.Margin = new System.Windows.Forms.Padding(2);
+            this.btn0.Name = "btn0";
+            this.btn0.Size = new System.Drawing.Size(56, 61);
+            this.btn0.TabIndex = 4;
+            this.btn0.Text = "0";
+            this.btn0.UseVisualStyleBackColor = true;
+            this.btn0.Click += new System.EventHandler(this.btn0_Click);
             // 
             // btn1
             // 
@@ -164,16 +164,16 @@
             this.btn5.UseVisualStyleBackColor = true;
             this.btn5.Click += new System.EventHandler(this.btn5_Click);
             // 
-            // btb6
+            // btn6
             // 
-            this.btb6.Location = new System.Drawing.Point(133, 214);
-            this.btb6.Margin = new System.Windows.Forms.Padding(2);
-            this.btb6.Name = "btb6";
-            this.btb6.Size = new System.Drawing.Size(56, 61);
-            this.btb6.TabIndex = 13;
-            this.btb6.Text = "6";
-            this.btb6.UseVisualStyleBackColor = true;
-            this.btb6.Click += new System.EventHandler(this.btb6_Click);
+            this.btn6.Location = new System.Drawing.Point(133, 214);
+            this.btn6.Margin = new System.Windows.Forms.Padding(2);
+            this.btn6.Name = "btn6";
+            this.btn6.Size = new System.Drawing.Size(56, 61);
+            this.btn6.TabIndex = 13;
+            this.btn6.Text = "6";
+            this.btn6.UseVisualStyleBackColor = true;
+            this.btn6.Click += new System.EventHandler(this.btn6_Click);
             // 
             // btnSub
             // 
@@ -307,14 +307,14 @@
             this.Controls.Add(this.btnSoma);
             this.Controls.Add(this.btn4);
             this.Controls.Add(this.btn5);
-            this.Controls.Add(this.btb6);
+            this.Controls.Add(this.btn6);
             this.Controls.Add(this.btnSub);
             this.Controls.Add(this.btnIgual);
             this.Controls.Add(this.btn1);
             this.Controls.Add(this.btn2);
             this.Controls.Add(this.btn3);
             this.Controls.Add(this.btnDiv);
-            this.Controls.Add(this.bnt0);
+            this.Controls.Add(this.btn0);
             this.Controls.Add(this.btnVirg);
             this.Controls.Add(this.btnMult);
             this.Controls.Add(this.txtVisor);
@@ -334,14 +334,14 @@
         private System.Windows.Forms.TextBox txtVisor;
         private System.Windows.Forms.Button btnMult;
         private System.Windows.Forms.Button btnVirg;
-        private System.Windows.Forms.Button bnt0;
+        private System.Windows.Forms.Button btn0;
         private System.Windows.Forms.Button btn1;
         private System.Windows.Forms.Button btn2;
         private System.Windows.Forms.Button btn3;
         private System.Windows.Forms.Button btnDiv;
         private System.Windows.Forms.Button btn4;
         private System.Windows.Forms.Button btn5;
-        private System.Windows.Forms.Button btb6;
+        private System.Windows.Forms.Button btn6;
         private System.Windows.Forms.Button btnSub;
         private System.Windows.Forms.Button btnIgual;
         private System.Windows.Forms.Button btn7;
