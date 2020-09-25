@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeLP2", "AtividadeLP2.csproj", "{2EB2A3E6-3368-410F-8B01-B77C689A98D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade2", "Atividade2.csproj", "{2EB2A3E6-3368-410F-8B01-B77C689A98D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade3", "..\Atividade3\Atividade3.csproj", "{10B6B098-1209-4CE2-A16A-9DEAAB38C900}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2EB2A3E6-3368-410F-8B01-B77C689A98D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EB2A3E6-3368-410F-8B01-B77C689A98D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EB2A3E6-3368-410F-8B01-B77C689A98D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B6B098-1209-4CE2-A16A-9DEAAB38C900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B6B098-1209-4CE2-A16A-9DEAAB38C900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B6B098-1209-4CE2-A16A-9DEAAB38C900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B6B098-1209-4CE2-A16A-9DEAAB38C900}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
