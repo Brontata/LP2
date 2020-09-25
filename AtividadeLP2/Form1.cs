@@ -268,5 +268,10 @@ namespace AtividadeLP2
             }
             return base.ProcessCmdKey(ref msg, keyData);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Atenção!\nEsta calculadora realiza apenas contas SIMPLES.");
+        }
     }
 }
