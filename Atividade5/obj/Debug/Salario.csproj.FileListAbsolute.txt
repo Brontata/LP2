@@ -1,0 +1,10 @@
+C:\Users\v-gamer\Desktop\Salario\Salario\bin\Debug\Salario.exe.config
+C:\Users\v-gamer\Desktop\Salario\Salario\bin\Debug\Salario.exe
+C:\Users\v-gamer\Desktop\Salario\Salario\bin\Debug\Salario.pdb
+C:\Users\v-gamer\Desktop\Salario\Salario\obj\Debug\Salario.csprojAssemblyReference.cache
+C:\Users\v-gamer\Desktop\Salario\Salario\obj\Debug\Salario.Form1.resources
+C:\Users\v-gamer\Desktop\Salario\Salario\obj\Debug\Salario.Properties.Resources.resources
+C:\Users\v-gamer\Desktop\Salario\Salario\obj\Debug\Salario.csproj.GenerateResource.cache
+C:\Users\v-gamer\Desktop\Salario\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache
+C:\Users\v-gamer\Desktop\Salario\Salario\obj\Debug\Salario.exe
+C:\Users\v-gamer\Desktop\Salario\Salario\obj\Debug\Salario.pdb
