@@ -1,0 +1,39 @@
+E:\coisas do note\Fatec\lp2\Metodos\Metodos\bin\Debug\Metodos.exe.config
+E:\coisas do note\Fatec\lp2\Metodos\Metodos\bin\Debug\Metodos.exe
+E:\coisas do note\Fatec\lp2\Metodos\Metodos\bin\Debug\Metodos.pdb
+E:\coisas do note\Fatec\lp2\Metodos\Metodos\obj\Debug\Metodos.csprojAssemblyReference.cache
+E:\coisas do note\Fatec\lp2\Metodos\Metodos\obj\Debug\Metodos.Form1.resources
+E:\coisas do note\Fatec\lp2\Metodos\Metodos\obj\Debug\Metodos.Properties.Resources.resources
+E:\coisas do note\Fatec\lp2\Metodos\Metodos\obj\Debug\Metodos.csproj.GenerateResource.cache
+E:\coisas do note\Fatec\lp2\Metodos\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+E:\coisas do note\Fatec\lp2\Metodos\Metodos\obj\Debug\Metodos.exe
+E:\coisas do note\Fatec\lp2\Metodos\Metodos\obj\Debug\Metodos.pdb
+E:\coisas do note\Fatec\lp2\Metodos\Metodos\obj\Debug\Metodos.frmExercicio2.resources
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\bin\Debug\Metodos.exe
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\bin\Debug\Metodos.pdb
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\obj\Debug\Metodos.csprojAssemblyReference.cache
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\obj\Debug\Metodos.Form1.resources
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\obj\Debug\Metodos.frmExercicio2.resources
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\obj\Debug\Metodos.csproj.GenerateResource.cache
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\obj\Debug\Metodos.exe
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\obj\Debug\Metodos.pdb
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\obj\Debug\Metodos.frmExercicio3.resources
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\obj\Debug\Metodos.frmExercicio4.resources
+C:\Users\jukat\Desktop\fatec\lp2\Atividade 6\Metodos\Metodos\obj\Debug\Metodos.a.resources
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\bin\Debug\Metodos.exe
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\bin\Debug\Metodos.pdb
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\obj\Debug\Metodos.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\obj\Debug\Metodos.frmEx1.resources
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\obj\Debug\Metodos.frmEx2.resources
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\obj\Debug\Metodos.frmEx3.resources
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\obj\Debug\Metodos.frmEx4.resources
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\obj\Debug\Metodos.a.resources
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\obj\Debug\Metodos.csproj.GenerateResource.cache
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\obj\Debug\Metodos.exe
+C:\Users\Guilherme\Desktop\Nova pasta\Metodos\obj\Debug\Metodos.pdb
