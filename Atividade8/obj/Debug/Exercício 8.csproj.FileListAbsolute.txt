@@ -1,0 +1,17 @@
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\bin\Debug\Exercício 8.exe.config
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\bin\Debug\Exercício 8.exe
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\bin\Debug\Exercício 8.pdb
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício 8.csprojAssemblyReference.cache
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício_8.Form1.resources
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício_8.Properties.Resources.resources
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício 8.csproj.GenerateResource.cache
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício 8.csproj.CoreCompileInputs.cache
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício 8.exe
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício 8.pdb
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício_8.Form2.resources
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício_8.Form8.resources
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício_8.Form3.resources
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício_8.Form4.resources
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício_8.Form5.resources
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício_8.Form6.resources
+C:\Users\jukat\source\repos\Exercício 8\Exercício 8\obj\Debug\Exercício_8.Form7.resources

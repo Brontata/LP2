@@ -1,0 +1,10 @@
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade5\bin\Debug\Salario.exe.config
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade5\bin\Debug\Salario.exe
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade5\bin\Debug\Salario.pdb
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade5\obj\Debug\Atividade5.csprojAssemblyReference.cache
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade5\obj\Debug\Salario.Form1.resources
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade5\obj\Debug\Salario.Properties.Resources.resources
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade5\obj\Debug\Atividade5.csproj.GenerateResource.cache
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade5\obj\Debug\Atividade5.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade5\obj\Debug\Salario.exe
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade5\obj\Debug\Salario.pdb

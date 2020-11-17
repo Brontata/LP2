@@ -1,0 +1,10 @@
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade1\obj\Debug\Atividade1.csprojAssemblyReference.cache
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade1\obj\Debug\Atividade1.csproj.GenerateResource.cache
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade1\obj\Debug\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Guilherme\Documents\GitHub\LP2\Atividade1\obj\Debug\WindowsFormsApp1.pdb
